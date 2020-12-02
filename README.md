@@ -6,11 +6,11 @@
 
 ## Índice:
 
-**1.- Introducción**
+1.- [Introducción](https://github.com/Juanrdls/NextCloud/blob/main/Instalacion.md)
 
-**2.- Instalación**
+2.- [Instalación](https://github.com/Juanrdls/NextCloud/blob/main/Introduccion.md)
 
-**3.- Acceso a NextCloud**
+3.- [Acceso a NextCloud](https://github.com/Juanrdls/NextCloud/blob/main/Acceso.md)
 
 ## Referencias:
 
